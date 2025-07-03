@@ -65,7 +65,7 @@ git clone https://github.com/username/data-science-portfolio.git
 
 Jika Anda ingin berdiskusi lebih lanjut atau tertarik untuk bekerja sama:
 - Email: yonhendri@gmail.com
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yonhendri-6b942490)
+- LinkedIn: [Yonhendri](https://linkedin.com/in/yonhendri-6b942490)
 
 ---
 
