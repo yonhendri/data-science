@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science 
 
 Selamat datang di portofolio Data Science saya! Di dalam repositori ini, Anda akan menemukan proyek-proyek saya yang mencakup berbagai area seperti:
 
@@ -26,10 +26,10 @@ Sistem rekomendasi film menggunakan pendekatan content-based dan collaborative f
 ## 📂 Struktur Folder
 
 ```
-data-science-portfolio/
+data-science/
 │
 ├── README.md
-├── project-1-customer-segmentation/
+├── project-1-diabates-prediction/
 │   ├── data/
 │   ├── notebooks/
 │   ├── scripts/
@@ -54,7 +54,7 @@ data-science-portfolio/
 
 1. Clone repositori ini:
 ```bash
-git clone https://github.com/username/data-science.git
+git clone https://github.com/yonhendri/data-science.git
 ```
 2. Buka folder proyek yang diinginkan.
 3. Jalankan Jupyter Notebook atau script Python yang tersedia.
