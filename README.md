@@ -12,8 +12,8 @@ Selamat datang di portofolio Data Science saya! Di dalam repositori ini, Anda ak
 
 ## 🔬 Projects
 
-### 1. [Customer Segmentation with K-Means](./project-1-customer-segmentation/)
-Segmentasi pelanggan berdasarkan perilaku dengan algoritma K-Means clustering.
+### 1. [Diabetes Prediction with SVM](./project-1-diabetes-prediction/)
+Diabetes Prediction use Support Vector Machine model.
 
 ### 2. [Sales Forecasting with Time Series](./project-2-sales-forecasting/)
 Prediksi penjualan masa depan menggunakan model time series.
