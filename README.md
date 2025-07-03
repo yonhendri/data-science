@@ -54,7 +54,7 @@ data-science-portfolio/
 
 1. Clone repositori ini:
 ```bash
-git clone https://github.com/username/data-science-portfolio.git
+git clone https://github.com/username/data-science.git
 ```
 2. Buka folder proyek yang diinginkan.
 3. Jalankan Jupyter Notebook atau script Python yang tersedia.
